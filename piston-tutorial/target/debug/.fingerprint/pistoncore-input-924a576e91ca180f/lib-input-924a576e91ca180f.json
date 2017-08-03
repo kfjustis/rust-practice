@@ -1,1 +1,0 @@
-{"rustc":15235436946139347034,"features":"[]","target":16585164901776671717,"profile":731176819336294830,"deps":[["bitflags v0.8.2",6479519505256274551],["piston-viewport v0.3.0",8030628808515453684],["rustc-serialize v0.3.24",14797108843682664761]],"local":{"Precalculated":"0.18.0"},"rustflags":[]}
