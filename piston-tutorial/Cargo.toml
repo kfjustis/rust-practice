@@ -3,4 +3,8 @@ name = "piston-tutorial"
 version = "0.1.0"
 authors = ["kfjustis <kfjustis@gmail.com>"]
 
+[[bin]]
+name = "square-spinner"
+
 [dependencies]
+piston_window = "0.69.0"
